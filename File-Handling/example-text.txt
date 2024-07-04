@@ -1,0 +1,2 @@
+I am writing content to file
+Proceeding with reading the content of file

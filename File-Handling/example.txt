@@ -1,0 +1,6 @@
+I am overwriting existing content
+I am appended to previous content 
+I am the end of the file
+First line 
+Second line 
+Third line 
