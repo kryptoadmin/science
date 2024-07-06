@@ -1,1 +1,10 @@
 ipykernel
+requests
+scikit-learn
+memory-profiler
+seaborn
+flask
+streamlit
+pandas
+numpy
+bs4
